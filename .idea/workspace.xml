@@ -49,6 +49,21 @@
       <recent name="C:\Users\samsc\IdeaProjects\Jasmin_101_Exercises" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,7 +76,7 @@
       <workItem from="1623201692719" duration="22403000" />
       <workItem from="1623292104097" duration="940000" />
       <workItem from="1623294487226" duration="1274000" />
-      <workItem from="1623295835596" duration="795000" />
+      <workItem from="1623295835596" duration="2035000" />
     </task>
     <servers />
   </component>

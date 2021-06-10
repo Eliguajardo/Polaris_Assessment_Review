@@ -2,12 +2,17 @@
 
 
 function doingJavaScriptRightNow() {
-    return typeof true == "doingJavaScriptRightNow";
+    return true;
 }
+
+function onMarsRightNow() {
+    return false;
+}
+
 
 function sayHello(value) {
     if (value == isNaN) {
-        "Hello, " + value + "!"
+        "Hello," + value + "!"
     } else {
         return "Hello, world!"
     }

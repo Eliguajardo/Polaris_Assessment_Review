@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5440f01a-9914-4338-9642-788ba95356c7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions.js" beforeDir="false" afterPath="$PROJECT_DIR$/solutions.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,21 +49,6 @@
       <recent name="C:\Users\samsc\IdeaProjects\Jasmin_101_Exercises" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,6 +59,9 @@
       <updated>1623171249984</updated>
       <workItem from="1623171251167" duration="12795000" />
       <workItem from="1623201692719" duration="22403000" />
+      <workItem from="1623292104097" duration="940000" />
+      <workItem from="1623294487226" duration="1274000" />
+      <workItem from="1623295835596" duration="795000" />
     </task>
     <servers />
   </component>
